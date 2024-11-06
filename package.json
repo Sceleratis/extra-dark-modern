@@ -1,0 +1,21 @@
+{
+  "name": "extra-dark-modern",
+  "displayName": "Extra Dark Modern",
+  "description": "An extra dark version of the Dark Modern theme for cave people.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extra Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extra Dark Modern-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,2 +1,3 @@
 # extra-dark-modern
-An extra dark VSCode theme for cave people.
+
+An extra dark modern theme for cave dwellers using VSCode.
