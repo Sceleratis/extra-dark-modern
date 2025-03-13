@@ -5,11 +5,12 @@
   "author": "Sceleratis",
   "publisher": "Sceleratis",
   "license": "MIT",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sceleratis/extra-dark-modern"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -21,7 +22,7 @@
       {
         "label": "Extra Dark Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/Extra Dark Modern-color-theme.json"
+        "path": "./themes/extra-dark-modern.json"
       }
     ]
   }
