@@ -2,6 +2,13 @@
   "name": "extra-dark-modern",
   "displayName": "Extra Dark Modern",
   "description": "An extra dark version of the Dark Modern theme for cave people.",
+  "author": "Sceleratis",
+  "publisher": "Sceleratis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sceleratis/extra-dark-modern"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
