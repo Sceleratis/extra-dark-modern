@@ -24,7 +24,7 @@
 		"button.secondaryHoverBackground": "#3c3c3c",
 		"chat.slashCommandBackground": "#34414b",
 		"chat.slashCommandForeground": "#40a6ff",
-		"checkbox.background": "#0f0f0f",
+		"checkbox.background": "#181818",
 		"checkbox.border": "#00000000",
 		"commandCenter.activeBackground": "#1a1a1a",
 		"commandCenter.activeBorder": "#0f0f0f00",

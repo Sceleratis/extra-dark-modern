@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/Sceleratis/extra-dark-modern"
   },
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
   },
